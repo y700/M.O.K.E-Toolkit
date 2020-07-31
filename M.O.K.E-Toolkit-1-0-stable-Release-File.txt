@@ -1,0 +1,9 @@
+In This Release of M.O.K.E Toolkit you will find the Following:
+
+1. A script for ownCloud MYSQL user accounts and databases creation. 
+
+2. A script for Kodi MYSQL user accouny creation.
+
+3. A script to List ALL ownCloud, Kodi and any other MYSQL User Accounts.
+
+for your convenience i have put a copy of the list users script in both the owncloud and Kodi Directories 
